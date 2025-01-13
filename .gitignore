@@ -35,3 +35,14 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### extra ###
+src/main/resources/application-secret.yml
+src/main/generated
+db.mv.db
+db.trace.db
+.idea
+.terraform/**
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
